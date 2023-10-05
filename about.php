@@ -18,14 +18,14 @@
 				<a href="index.html" class="logo"><img style="width: 70%; height: 180px;" src="images/logo.png" alt=""></a>
 				<ul id="menu">
 					<li>
-						<a href="index.html">Home</a>
+						<a href="index.php">Home</a>
 					</li>
 					<li>
-						<a href="about.html">About</a>
+						<a href="about.php">About</a>
 					</li>
 					
 					<li>
-						<a href="contact.html">Contact</a>
+						<a href="contact.php">Contact</a>
 					</li>
 				</ul>
 			</div>
@@ -33,7 +33,7 @@
 		<div id="body">
 			<div>
 				
-				<img src="images/runner's-foots.png" alt="">
+				<img src="images/me.png" alt="">
 				<h1>ABOUT ME</h1>
 				<P>I'm SAM OCHU founder and developer of <b>SAM TECHNOLOGY</b></P>
 				<p>Am exceptional creative abilities have made a significant impact in the online world. He is an innovative thinker, striving to ensure that each website he creates delivers a unique message to his clients.
