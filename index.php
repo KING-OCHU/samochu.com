@@ -18,14 +18,14 @@
 				<a href="index.html" class="logo"><img style="width: 70%; height: 180px;" src="images/logo.png" alt=""></a>
 				<ul id="menu">
 					<li>
-						<a href="index.html">Home</a>
+						<a href="index.php">Home</a>
 					</li>
 					<li>
-						<a href="about.html">About</a>
+						<a href="about.php">About</a>
 					</li>
 					
 					<li>
-						<a href="contact.html">Contact</a>
+						<a href="contact.php">Contact</a>
 					</li>
 				</ul>
 			</div>
@@ -42,7 +42,7 @@
 				<div>
 					<h1>WELCOME TO SAM OCHU WEBSITE</h1>
 					<p>Hi there! I'm SAM OCHU, I'm so happy to welcome you to my website.</p>
-					<a href="about.html" class="more">Read More</a>
+					<a href="about.php" class="more">Read More</a>
 				</div>
 			</div>
 		</div>
